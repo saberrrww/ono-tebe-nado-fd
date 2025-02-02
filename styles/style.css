@@ -48,7 +48,7 @@
   width: 136px;
 }
 
-.header__logo-image{
+.header__logo-image {
   width: 100%;
 }
 
@@ -196,7 +196,7 @@
   text-transform: uppercase;
 }
 
-.card__text{
+.card__text {
   z-index: 1;
   font-size: 20px;
   line-height: 120%;
